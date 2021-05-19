@@ -35,11 +35,21 @@
 
 ### 🛠 Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="./src/assets/icons/html.svg" /> &nbsp;
+<img align="left" alt="HTML5" width="26px" src="./src/assets/icons/html5.svg" /> &nbsp;
 <img align="left" alt="CSS3" width="26px" src="./src/assets/icons/css3.svg" /> &nbsp;
 <img align="left" alt="Javascript" width="26px" src="./src/assets/icons/javascript.svg" /> &nbsp;
+<img align="left" alt="React" width="26px" src="./src/assets/icons/reactjs-icon.svg" /> &nbsp;
+<img align="left" alt="Redux" width="26px" src="./src/assets/icons/redux.svg" /> &nbsp;
+<img align="left" alt="NextJS" width="26px" src="./src/assets/icons/next-js.svg" /> &nbsp;
+<img align="left" alt="Storybook" width="26px" src="./src/assets/icons/storybook-1.svg" /> &nbsp;
+<img align="left" alt="Electron" width="26px" src="./src/assets/icons/electron-1.svg" /> &nbsp;
+<img align="left" alt="React Bootstrap" width="26px" src="./src/assets/icons/reactbootstrap.svg" /> &nbsp;
+<img align="left" alt="Material UI" width="26px" src="./src/assets/icons/material-ui-1.svg" /> &nbsp;
+<img align="left" alt="Bootstrap" width="26px" src="./src/assets/icons/bootstrap-5-1.svg" /> &nbsp;
 <img align="left" alt="VS Code" width="26px" src="./src/assets/icons/visual-studio-code.svg" /> &nbsp;
 <img align="left" alt="Git" width="26px" src="./src/assets/icons/git.svg" /> &nbsp;
+<img align="left" alt="Bitbucket" width="26px" src="./src/assets/icons/bitbucket-icon.svg" /> &nbsp;
+<img align="left" alt="Jira" width="26px" src="./src/assets/icons/jira-3.svg" /> &nbsp;
 
 ### Visitors
 
