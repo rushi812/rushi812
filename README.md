@@ -1,6 +1,6 @@
 # 👋 Hi, I am Rushiraj
 
-## 😎 About me:
+## 😎 About me
 
 1. A person with growth mindset.
 1. Always looking to improve, becoming better at everything I do.
@@ -8,7 +8,7 @@
 1. Helping/Impacting as many lives as possible.
 1. Honest, creative, caring
 
-## 🔭 I’m currently working on:
+## 🔭 I’m currently working on
 
 1. Web and Desktop app developement
 
@@ -19,13 +19,13 @@
 1. Deep diving into ReactJS
 1. NextJS
 
-## 🥅 2021 Goals:
+## 🥅 2021 Goals
 
 1. Daily algorithm practice
 1. Get few certificates on FreeCodeCamp.org/Udemy/LinkedIn Learning
 1. Learn Backend Technologies
 
-### Lets Connect:
+### Lets Connect
 
 [<img align="left" alt="Rushiraj Brahmbhatt | Twitter" width="22px" target="_blank" src="./src/assets/icons/twitter.svg" />][twitter]
 
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-### 🛠 Languages and Tools:
+### 🛠 Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="./src/assets/icons/html5.svg" /> &nbsp;
 <img align="left" alt="CSS3" width="26px" src="./src/assets/icons/css3.svg" /> &nbsp;
@@ -52,7 +52,6 @@
 <img align="left" alt="Bitbucket" width="26px" src="./src/assets/icons/bitbucket-icon.svg" /> &nbsp;
 <img align="left" alt="Jira" width="26px" src="./src/assets/icons/jira-3.svg" /> &nbsp;
 
-<br />
 <br />
 
 ## ⚡ Fun fact: I 💚 TREKKING 🏕️
