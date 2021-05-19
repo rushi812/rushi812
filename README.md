@@ -25,13 +25,14 @@
 1. Get few certificates on FreeCodeCamp.org/Udemy/LinkedIn Learning
 1. Learn Backend Technologies
 
-## ⚡ Fun fact: I 💚 TREKKING 🏕️
-
 ### Lets Connect:
 
 [<img align="left" alt="Rushiraj Brahmbhatt | Twitter" width="22px" target="_blank" src="./src/assets/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="Rushiraj Brahmbhatt | Linkedin" width="22px" target="_blank" src="./src/assets/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
 
 ### 🛠 Languages and Tools:
 
@@ -41,7 +42,7 @@
 <img align="left" alt="React" width="26px" src="./src/assets/icons/reactjs-icon.svg" /> &nbsp;
 <img align="left" alt="Redux" width="26px" src="./src/assets/icons/redux.svg" /> &nbsp;
 <img align="left" alt="NextJS" width="26px" src="./src/assets/icons/next-js.svg" /> &nbsp;
-<img align="left" alt="Storybook" width="26px" src="./src/assets/icons/storybook-1.svg" /> &nbsp;
+<img align="left" alt="Storybook" width="26px" src="./src/assets/icons/sb.svg" /> &nbsp;
 <img align="left" alt="Electron" width="26px" src="./src/assets/icons/electron-1.svg" /> &nbsp;
 <img align="left" alt="React Bootstrap" width="26px" src="./src/assets/icons/reactbootstrap.svg" /> &nbsp;
 <img align="left" alt="Material UI" width="26px" src="./src/assets/icons/material-ui-1.svg" /> &nbsp;
@@ -50,6 +51,11 @@
 <img align="left" alt="Git" width="26px" src="./src/assets/icons/git.svg" /> &nbsp;
 <img align="left" alt="Bitbucket" width="26px" src="./src/assets/icons/bitbucket-icon.svg" /> &nbsp;
 <img align="left" alt="Jira" width="26px" src="./src/assets/icons/jira-3.svg" /> &nbsp;
+
+<br />
+<br />
+
+## ⚡ Fun fact: I 💚 TREKKING 🏕️
 
 ### Visitors
 
