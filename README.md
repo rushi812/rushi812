@@ -67,7 +67,7 @@
 
 ### Visitors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rushi812.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rushi812.visitor-badge)
 
 ## Some of my Github Stats
 
