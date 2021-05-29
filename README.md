@@ -1,7 +1,68 @@
-## Hey 👋, This is Rushiraj Brahmbhatt
+# Hey 👋, This is Rushiraj Brahmbhatt
 
-[![Gmail Badge](https://img.shields.io/badge/-rushibrahmbhatt33@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rushibrahmbhatt33@gmail.com)](mailto:rushibrahmbhatt33@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/rushiraj-brahmbhatt-12656864/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/rushiraj-brahmbhatt-12656864//)](https://www.linkedin.com/in/https://www.linkedin.com/in/rushiraj-brahmbhatt-12656864//) [![Github Badge](https://img.shields.io/badge/-rushi812-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rushi812/)](https://www.github.com/rushi812/) [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/Rushiraj004-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Rushiraj004/)](https://www.twitter.com/https://twitter.com/Rushiraj004/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://rushi812.github.io/portfolio//)](https://rushi812.github.io/portfolio//) <p align='left'>Around 4+ years of experience in the computer software industry with a demonstrated history of working as web/frontend developer to analysis, design, development, and deployment, of various applications with a primary focus on technologies like HTML5, CSS3, CSS pre-processors like LESS and SASS, JavaScript, JS libraries like ReactJS and Redux. I am enthusiastic about learning new technologies to evolve and be a better self.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/17d1eRlCU5xJr99oLFXdT7HIfA6IMlSAu/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+<p align='left'>Around 4+ years of experience in the computer software industry with a demonstrated history of working as web/frontend developer to analysis, design, development, and deployment, of various applications with a primary focus on technologies like HTML5, CSS3, CSS pre-processors like LESS and SASS, JavaScript, JS libraries like ReactJS and Redux. I am enthusiastic about learning new technologies to evolve and be a better self.</p>
+
+## 😎 About me
+
+1. A person with growth mindset.
+1. Always looking to improve, becoming better at everything I do.
+1. Love deep conversations.
+1. Helping/Impacting as many lives as possible.
+1. Honest, creative, caring
+
+<p align='left'> You can view my resume <a href='https://drive.google.com/file/d/17d1eRlCU5xJr99oLFXdT7HIfA6IMlSAu/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+
+## 🔭 I’m currently working on
+
+1. Web and Desktop app developement
+
+## 🌱 I’m currently learning
+
+1. Detailed HTML CSS fundamentals
+1. Javascript Core Concepts
+1. Deep diving into ReactJS
+1. NextJS
+
+## 🥅 2021 Goals
+
+1. Daily algorithm practice
+1. Get few certificates on FreeCodeCamp.org/Udemy/LinkedIn Learning
+1. Learn Backend Technologies
+
+### Lets Connect
+
+[<img align="left" alt="Rushiraj Brahmbhatt | Twitter" width="22px" target="_blank" src="./src/assets/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="Rushiraj Brahmbhatt | Linkedin" width="22px" target="_blank" src="./src/assets/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+### 🛠 Languages and Tools
+
+<img align="left" alt="HTML5" width="26px" src="./src/assets/icons/html5.svg" /> &nbsp;
+<img align="left" alt="CSS3" width="26px" src="./src/assets/icons/css3.svg" /> &nbsp;
+<img align="left" alt="Javascript" width="26px" src="./src/assets/icons/javascript.svg" /> &nbsp;
+<img align="left" alt="React" width="26px" src="./src/assets/icons/reactjs-icon.svg" /> &nbsp;
+<img align="left" alt="Redux" width="26px" src="./src/assets/icons/redux.svg" /> &nbsp;
+<img align="left" alt="NextJS" width="26px" src="./src/assets/icons/next-js.svg" /> &nbsp;
+<img align="left" alt="Storybook" width="26px" src="./src/assets/icons/sb.svg" /> &nbsp;
+<img align="left" alt="Electron" width="26px" src="./src/assets/icons/electron-1.svg" /> &nbsp;
+<img align="left" alt="React Bootstrap" width="26px" src="./src/assets/icons/reactbootstrap.svg" /> &nbsp;
+<img align="left" alt="Material UI" width="26px" src="./src/assets/icons/material-ui-1.svg" /> &nbsp;
+<img align="left" alt="Bootstrap" width="26px" src="./src/assets/icons/bootstrap-5-1.svg" /> &nbsp;
+<img align="left" alt="VS Code" width="26px" src="./src/assets/icons/visual-studio-code.svg" /> &nbsp;
+<img align="left" alt="Git" width="26px" src="./src/assets/icons/git.svg" /> &nbsp;
+<img align="left" alt="Bitbucket" width="26px" src="./src/assets/icons/bitbucket-icon.svg" /> &nbsp;
+<img align="left" alt="Jira" width="26px" src="./src/assets/icons/jira-3.svg" /> &nbsp;
+
+<br />
+
+## ⚡ Fun fact: I 💚 TREKKING 🏕️
+
+### Visitors
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rushi812.visitor-badge)
 
 ## Some of my Github Stats
 
@@ -9,3 +70,6 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rushi812&show_icons=true&include_all_commits=true)](https://github.com/rushi812/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushi812&layout=compact)](https://github.com/rushi812/github-readme-stats)
+
+[twitter]: https://twitter.com/Rushiraj004
+[linkedin]: https://www.linkedin.com/in/rushiraj-brahmbhatt-12656864/
