@@ -31,9 +31,14 @@
 
 ### Lets Connect
 
-[<img align="left" alt="Rushiraj Brahmbhatt | Twitter" width="22px" target="_blank" src="./src/assets/icons/twitter.svg" />][twitter]
+<!-- [<img align="left" alt="Rushiraj Brahmbhatt | Twitter" width="22px" target="_blank" src="./src/assets/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="Rushiraj Brahmbhatt | Linkedin" width="22px" target="_blank" src="./src/assets/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rushiraj Brahmbhatt | Linkedin" width="22px" target="_blank" src="./src/assets/icons/linkedin.svg" />][linkedin] -->
+
+<a href="https://www.linkedin.com/in/rushiraj-brahmbhatt-12656864/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/Rushiraj004"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:rbrahm812@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/ronnyy812"><img src="https://img.shields.io/badge/-@ronnyy812-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 <br />
 <br />
