@@ -1,6 +1,6 @@
 # Hey 👋, This is Rushiraj Brahmbhatt
 
-<p align='left'>Around 4+ years of experience in the computer software industry with a demonstrated history of working as web/frontend developer to analysis, design, development, and deployment, of various applications with a primary focus on technologies like HTML5, CSS3, CSS pre-processors like LESS and SASS, JavaScript, JS libraries like ReactJS and Redux. I am enthusiastic about learning new technologies to evolve and be a better self.</p>
+Around 3+ years of experience in the computer software industry with a demonstrated history of working as web/frontend developer to analysis, design, development, and deployment, of various applications with a primary focus on technologies like HTML5, CSS3, CSS pre-processors like LESS and SASS, JavaScript, JS libraries like ReactJS and Redux. I am enthusiastic about learning new technologies to evolve and be a better self.
 
 ## 😎 About me
 
@@ -10,7 +10,7 @@
 1. Helping/Impacting as many lives as possible.
 1. Honest, creative, caring
 
-<p align='left'> You can view my resume <a href='https://drive.google.com/file/d/17d1eRlCU5xJr99oLFXdT7HIfA6IMlSAu/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+You can view my resume [here](https://drive.google.com/file/d/17d1eRlCU5xJr99oLFXdT7HIfA6IMlSAu/view?usp=sharing)
 
 ## 🔭 I’m currently working on
 
@@ -30,10 +30,6 @@
 1. Learn Backend Technologies
 
 ### Lets Connect
-
-<!-- [<img align="left" alt="Rushiraj Brahmbhatt | Twitter" width="22px" target="_blank" src="./src/assets/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="Rushiraj Brahmbhatt | Linkedin" width="22px" target="_blank" src="./src/assets/icons/linkedin.svg" />][linkedin] -->
 
 <a href="https://www.linkedin.com/in/rushiraj-brahmbhatt-12656864/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://twitter.com/Rushiraj004"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2FRushiraj004"/></a> &nbsp;
