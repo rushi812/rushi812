@@ -10,7 +10,8 @@ Around 3+ years of experience in the computer software industry with a demonstra
 1. Helping/Impacting as many lives as possible.
 1. Honest, creative, caring
 
-You can view my resume [here](https://drive.google.com/file/d/17d1eRlCU5xJr99oLFXdT7HIfA6IMlSAu/view?usp=sharing)
+### Check my [Resume](https://drive.google.com/file/d/1xbEOkQb80LuCqy8HESQPN3pq7vi8DGOv/view?usp=sharing)
+### Check my [Profile](https://precious-lemming-590.notion.site/Rushiraj-Brahmbhatt-cbe4e37027c24a1698ebacb96c9367f7)
 
 ## 🔭 I’m currently working on
 
