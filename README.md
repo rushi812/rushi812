@@ -1,6 +1,6 @@
 # Hey 👋, This is Rushiraj Brahmbhatt
 
-Around 3+ years of experience in the computer software industry with a demonstrated history of working as web/frontend developer to analysis, design, development, and deployment, of various applications with a primary focus on technologies like HTML5, CSS3, CSS pre-processors like LESS and SASS, JavaScript, JS libraries like ReactJS and Redux. I am enthusiastic about learning new technologies to evolve and be a better self.
+Around 3.5+ years of experience in the computer software industry with a demonstrated history of working as web/frontend developer to analysis, design, development, and deployment, of various applications with a primary focus on technologies like HTML5, CSS3, CSS pre-processors like LESS and SASS, JavaScript, JS libraries like ReactJS and Redux. I am enthusiastic about learning new technologies to evolve and be a better self.
 
 ## 😎 About me
 
@@ -24,7 +24,7 @@ Around 3+ years of experience in the computer software industry with a demonstra
 1. Deep diving into ReactJS
 1. NextJS
 
-## 🥅 2021 Goals
+## 🥅 2022 Goals
 
 1. Daily algorithm practice
 1. Get few certificates on FreeCodeCamp.org/Udemy/LinkedIn Learning
