@@ -34,9 +34,6 @@ Around 4.5+ years of experience in the computer software industry with a demonst
 <a href="mailto:rbrahm812@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/ronnyy812"><img src="https://img.shields.io/badge/-@ronnyy812-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-<br />
-<br />
-
 ### 🛠 Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="/src/assets/icons/html5.svg" /> &nbsp;
@@ -54,8 +51,6 @@ Around 4.5+ years of experience in the computer software industry with a demonst
 <img align="left" alt="Git" width="26px" src="./src/assets/icons/git.svg" /> &nbsp;
 <img align="left" alt="Bitbucket" width="26px" src="./src/assets/icons/bitbucket-icon.svg" /> &nbsp;
 <img align="left" alt="Jira" width="26px" src="./src/assets/icons/jira-3.svg" /> &nbsp;
-
-<br />
 
 ## ⚡ Fun fact: I 💚 TREKKING 🏕️
 
