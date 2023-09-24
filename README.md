@@ -10,7 +10,7 @@ Around 3.5+ years of experience in the computer software industry with a demonst
 1. Helping/Impacting as many lives as possible.
 1. Honest, creative, caring
 
-### Check my [Resume](https://drive.google.com/file/d/1XNCEZReZAIvIbVUUIlaqFFZJ1CJkmPzf/view?usp=sharing)
+### Check my [Resume](https://drive.google.com/file/d/1dzZmqYZ3FWMRi-27fV_PUWIj-6QHkAPH/view?usp=drive_link)
 ### Check my [Profile](https://precious-lemming-590.notion.site/Rushiraj-Brahmbhatt-cbe4e37027c24a1698ebacb96c9367f7)
 
 ## 🔭 I’m currently working on
@@ -19,15 +19,12 @@ Around 3.5+ years of experience in the computer software industry with a demonst
 
 ## 🌱 I’m currently learning
 
-1. Detailed HTML CSS fundamentals
-1. Javascript Core Concepts
 1. Deep diving into ReactJS
 1. NextJS
 
-## 🥅 2022 Goals
+## 🥅 2023 Goals
 
 1. Daily algorithm practice
-1. Get few certificates on FreeCodeCamp.org/Udemy/LinkedIn Learning
 1. Learn Backend Technologies
 
 ### Lets Connect
