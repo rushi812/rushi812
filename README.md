@@ -1,10 +1,10 @@
 # Hey 👋, This is Rushiraj Brahmbhatt
 
-Around 3.5+ years of experience in the computer software industry with a demonstrated history of working as web/frontend developer to analysis, design, development, and deployment, of various applications with a primary focus on technologies like HTML5, CSS3, CSS pre-processors like LESS and SASS, JavaScript, JS libraries like ReactJS and Redux. I am enthusiastic about learning new technologies to evolve and be a better self.
+Around 4.5+ years of experience in the computer software industry with a demonstrated history of working as web/frontend developer to analysis, design, development, and deployment, of various applications with a primary focus on technologies like HTML5, CSS3, CSS pre-processors like LESS and SASS, JavaScript, JS libraries like ReactJS and Redux. I am enthusiastic about learning new technologies to evolve and be a better self.
 
 ## 😎 About me
 
-1. A person with growth mindset.
+1. A person with a growth mindset.
 1. Always looking to improve, becoming better at everything I do.
 1. Love deep conversations.
 1. Helping/Impacting as many lives as possible.
@@ -15,7 +15,7 @@ Around 3.5+ years of experience in the computer software industry with a demonst
 
 ## 🔭 I’m currently working on
 
-1. Web and Desktop app developement
+1. Web and Desktop app development
 
 ## 🌱 I’m currently learning
 
@@ -27,7 +27,7 @@ Around 3.5+ years of experience in the computer software industry with a demonst
 1. Daily algorithm practice
 1. Learn Backend Technologies
 
-### Lets Connect
+### Let's Connect
 
 <a href="https://www.linkedin.com/in/rushiraj-brahmbhatt-12656864/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://twitter.com/Rushiraj004"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2FRushiraj004"/></a> &nbsp;
@@ -39,7 +39,7 @@ Around 3.5+ years of experience in the computer software industry with a demonst
 
 ### 🛠 Languages and Tools
 
-<img align="left" alt="HTML5" width="26px" src="./src/assets/icons/html5.svg" /> &nbsp;
+<img align="left" alt="HTML5" width="26px" src="/src/assets/icons/html5.svg" /> &nbsp;
 <img align="left" alt="CSS3" width="26px" src="./src/assets/icons/css3.svg" /> &nbsp;
 <img align="left" alt="Javascript" width="26px" src="./src/assets/icons/javascript.svg" /> &nbsp;
 <img align="left" alt="React" width="26px" src="./src/assets/icons/reactjs-icon.svg" /> &nbsp;
@@ -63,7 +63,7 @@ Around 3.5+ years of experience in the computer software industry with a demonst
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rushi812.visitor-badge)
 
-## Some of my Github Stats
+## Some of my GitHub Stats
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rushi812 alt=rushi812 /> </p>
 
