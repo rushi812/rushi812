@@ -11,7 +11,6 @@ Around 4.5+ years of experience in the computer software industry with a demonst
 1. Honest, creative, caring
 
 ### Check my [Resume](https://drive.google.com/file/d/1dzZmqYZ3FWMRi-27fV_PUWIj-6QHkAPH/view?usp=drive_link)
-### Check my [Profile](https://precious-lemming-590.notion.site/Rushiraj-Brahmbhatt-cbe4e37027c24a1698ebacb96c9367f7)
 
 ## 🔭 I’m currently working on
 
@@ -21,11 +20,6 @@ Around 4.5+ years of experience in the computer software industry with a demonst
 
 1. Deep diving into ReactJS
 1. NextJS
-
-## 🥅 2023 Goals
-
-1. Daily algorithm practice
-1. Learn Backend Technologies
 
 ### Let's Connect
 
