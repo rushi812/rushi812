@@ -1,6 +1,14 @@
 # Hey 👋, This is Rushiraj Brahmbhatt
 
-Around 4.5+ years of experience in the computer software industry with a demonstrated history of working as web/frontend developer to analysis, design, development, and deployment, of various applications with a primary focus on technologies like HTML5, CSS3, CSS pre-processors like LESS and SASS, JavaScript, JS libraries like ReactJS and Redux. I am enthusiastic about learning new technologies to evolve and be a better self.
+I'm a Front-End Engineer with over 5 years of experience building responsive and user-friendly websites. I specialise in using HTML, CSS, and JavaScript, and I mainly work with React.js and Next.js to create smooth and modern web applications.
+
+Throughout my career, I've worked on a variety of projects, collaborating with different teams to deliver clean code and great user experiences. I'm focused on writing scalable, efficient code that performs well and is easy to maintain.
+
+I'm especially strong with React and Next.js, which lets me build both single-page apps and server-side rendered websites that are fast and SEO-friendly. I also use Material-UI to design clean, consistent interfaces that look great and are easy to use.
+
+I enjoy staying up to date with the latest tools and trends in front-end development, and I’m always looking for ways to learn more and get better.
+
+If you're looking for someone reliable and experienced to help bring your web project to life, I’d love to connect. Let’s build something great together!
 
 ## 😎 About me
 
@@ -10,16 +18,11 @@ Around 4.5+ years of experience in the computer software industry with a demonst
 1. Helping/Impacting as many lives as possible.
 1. Honest, creative, caring
 
-### Check my [Resume](https://drive.google.com/file/d/1dzZmqYZ3FWMRi-27fV_PUWIj-6QHkAPH/view?usp=drive_link)
+### Check my [Resume](https://drive.google.com/file/d/1Ak2J7Yc33vdXaXpD34ymnwX_itc4atmv/view?usp=drive_link)
 
 ## 🔭 I’m currently working on
 
 1. Web and Desktop app development
-
-## 🌱 I’m currently learning
-
-1. Deep diving into ReactJS
-1. NextJS
 
 ### Let's Connect
 
